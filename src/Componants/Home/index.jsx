@@ -38,10 +38,10 @@ const Home = () => {
                 <h3 className="ParaTxtColorDark">Tech Stack | </h3>
                 <div className="logos">
                     <ul>
-                        <li><img src={html} alt="" /></li>
-                        <li><img src={css} alt="" /></li>
-                        <li><img src={js} alt="" /></li>
-                        <li><img src={react} alt="" /></li>
+                        <li><img src={html} alt="HTML" /></li>
+                        <li><img src={css} alt="CSS" /></li>
+                        <li><img src={js} alt="JavaScript" /></li>
+                        <li><img src={react} alt="React" /></li>
                     </ul>
                 </div>
             </motion.div>
@@ -50,3 +50,4 @@ const Home = () => {
 };
 
 export default Home;
+

@@ -58,11 +58,12 @@
 .ParaTxtColorDark {
     color: var(--text);
 }
+
 .hero-img {
     width: 22rem;
     height: 22rem;
     background: #BDB9B6;
-    background-image: url('src/assets/img/anagh.png'); 
+    background-image: url('../../assets/img/anagh.png'); 
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
