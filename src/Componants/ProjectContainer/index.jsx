@@ -10,7 +10,7 @@ const ProjectContainer = () => {
         {
             img: mistoreImg,
             heading: 'MiStore-WebApp 💻 ',
-            des: "The MiStore app, crafted with HTML, CSS, and ReactJS, offers lightning-fast performance and seamless user experience. Featuring dynamic content rendering and multi-language support, it caters to diverse audiences worldwide. With customizable themes and responsive design, MiStore delivers a versatile and engaging e-commerce platform. A testament to proficiency in React development, MiStore elevates the online shopping experience with speed, accessibility, and visual appeal.",
+            des: "The MiStore app, crafted with HTML, CSS, and ReactJS, offers lightning-fast performance and seamless user experience. Featuring dynamic content rendering and multi-language support, it caters to diverse audiences worldwide. With customizable themes and responsive design, MiStore delivers a versatile and engaging e-commerce platform. A testament to proficiency in React development.",
             tech: ['React', 'CSS3'],
             CodeLink: 'https://github.com/Anagh4311/MiStore-WebApp',
             LiveDemoLink: 'https://anagh4311.github.io/MiStore-WebApp/',
